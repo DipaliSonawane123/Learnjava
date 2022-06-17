@@ -1,7 +1,4 @@
-./
-  ../
-  .git/
-  .idea/ 
- javapractice.iml
-  out/ 
- src/
+.idea/  
+javapractice.iml  
+out/ 
+
